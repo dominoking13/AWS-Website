@@ -205,3 +205,9 @@ The application deployed during this project was my personal React/Vite portfoli
 ## Outcome
 
 Successfully deployed a fully functional React/Vite portfolio website using Amazon S3 Static Website Hosting, resolved S3 permission issues, and gained hands-on experience with cloud hosting, access control, and web application deployment troubleshooting. 
+
+---
+## DEMO
+<video controls src="images/Screen Recording 2026-10-13 at 8.58.44 PM.mov" title="Title"></video>
+
+---
