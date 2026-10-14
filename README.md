@@ -106,7 +106,9 @@ The website displayed a blank page even though the HTML document loaded successf
 
 
 Deployment Troubleshooting Screenshot 
-Safari Network tab showing the 403 errors for JavaScript and CSS assets before the bucket policy was configured. 
+Safari Network tab showing the 403 errors for JavaScript and CSS assets before the bucket policy was configured.
+
+![alt text](<images/black screen.png>)
 
 ![alt text](images/Picture1.png)
 
